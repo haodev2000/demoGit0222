@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 diep diep
+=======
+hao hao
+>>>>>>> af885e676ad895dac3ee706e8fe1ec9835fee03f
